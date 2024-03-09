@@ -22,7 +22,7 @@ Once activated, the VHC WP Show IDs plugin will automatically start displaying I
 
 ## Support
 
-For any inquiries, issues, or feature requests, please [open an issue](https://github.com/vijayhardaha/vhc-wp-show-ids/releases/issues) on the GitHub repository.
+For any inquiries, issues, or feature requests, please [open an issue](https://github.com/vijayhardaha/vhc-wp-show-ids/issues) on the GitHub repository.
 
 ## Contributing
 
