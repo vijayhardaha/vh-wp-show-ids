@@ -1,0 +1,55 @@
+# Copyright (C) 2022 Vijay Hardaha
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: VHC WP Show IDs 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vhc-wp-show-ids\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-04T17:18:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: vhc-wp-show-ids\n"
+
+#. Plugin Name of the plugin
+msgid "VHC WP Show IDs"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/vijayhardaha/vhc-wp-show-ids"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows IDs on all post, page, media list, user and taxonomy pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "Vijay Hardaha"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://twitter.com/vijayhardaha/"
+msgstr ""
+
+#. translators: 1: Error Message 2: File Name and Path 3: Line Number
+#: includes/class-vhc-wp-show-ids.php:65
+msgid "%1$s in %2$s on line %3$s"
+msgstr ""
+
+#. translators: %s Object ID
+#: includes/class-vhc-wp-show-ids.php:298
+msgid "ID: %s"
+msgstr ""
+
+#. translators: 1: Object ID. 2: Object ID with label
+#: includes/class-vhc-wp-show-ids.php:310
+msgid "Click to copy"
+msgstr ""
+
+#. translators: 1: Object ID. 2: Object ID with label
+#: includes/class-vhc-wp-show-ids.php:310
+msgid "Copied!"
+msgstr ""
